@@ -1,0 +1,12 @@
+{
+  "name": "sass-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "sass": "sass src/scss/main.scss build/css/style.css",
+    "sass-watch": "sass --watch src/scss:build/css"
+  },
+  "author": "",
+  "license": "ISC"
+}
